@@ -1,0 +1,17 @@
+E:\Projects\QLPT\QLPt\bin\Debug\QLPt.exe.config
+E:\Projects\QLPT\QLPt\bin\Debug\QLPt.exe
+E:\Projects\QLPT\QLPt\bin\Debug\QLPt.pdb
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.csproj.AssemblyReference.cache
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.DangKy.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.DangNhap.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.Form1.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.HopDong.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.KhachThue.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.PhongTro_.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.Properties.Resources.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.csproj.GenerateResource.cache
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.csproj.CoreCompileInputs.cache
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.exe
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.pdb
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.DienNuoc.resources
+E:\Projects\QLPT\QLPt\obj\Debug\QLPt.HoaDon.resources
