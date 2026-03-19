@@ -37,10 +37,8 @@ DoAn1/
 File chạy demo (QLPt.exe) được phát hành trong mục Releases của repo.
 Tải về, giải nén và mở file .exe để sử dụng.
 ## Tài khoản Demo:
-Tài khoản demo 1:
 - Username: admin
 - Password: admin123
-Tài khoản demo 2:
 - Username: thuan
 - Password: 123
 ## Tác giả
