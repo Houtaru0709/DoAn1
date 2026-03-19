@@ -1,0 +1,17 @@
+E:\Projects\QLPT\QLPt\bin\Release\QLPt.exe.config
+E:\Projects\QLPT\QLPt\bin\Release\QLPt.exe
+E:\Projects\QLPT\QLPt\bin\Release\QLPt.pdb
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.csproj.AssemblyReference.cache
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.DangKy.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.DangNhap.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.DienNuoc.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.Form1.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.HoaDon.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.HopDong.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.KhachThue.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.PhongTro_.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.Properties.Resources.resources
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.csproj.GenerateResource.cache
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.csproj.CoreCompileInputs.cache
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.exe
+E:\Projects\QLPT\QLPt\obj\Release\QLPt.pdb
